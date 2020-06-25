@@ -5,3 +5,4 @@ The purpose of this project is to fix a website that is not accessible to all en
 I have documented the changes that I made in the update.txt file located in the root of this repository and added screenshots of the final product.
 
 Webstite Link: https://kj-labs.github.io/Code_Refactor/
+https://github.com/KJ-Labs/Code_Refactor/blob/master/Screenshots%20Horiseon.PNG
