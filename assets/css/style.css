@@ -1,3 +1,4 @@
+/* Consolidated duplicate CSS values and condesed images, benefits and banner items.*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -93,7 +94,6 @@ p {
 
 
 .benefits {
-    display: inline-block;
     margin-right: 20px;
     float: right;
     padding: 25px;
