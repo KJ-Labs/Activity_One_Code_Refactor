@@ -6,5 +6,4 @@ I have documented the changes that I made in the update.txt file located in the 
 
 Webstite Link: https://kj-labs.github.io/Code_Refactor/
 
-Screenshots: ![Horiseon Screenshots](/blob/master/Screenshots Horiseon.PNG?raw=true "Optional Title")
-
+Screenshots: ![Alt text](https://github.com/KJ-Labs/Code_Refactor/blob/master/ScreenshotsHoriseon.PNG "Screenshots")
